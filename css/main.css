@@ -10,4 +10,29 @@ h1 {
   color:darkgreen;
   font-weight:normal;
   font-size:5rem;
+  lime-height:1;
+  text-shadow:2px -5px 10px darkslategrey;
+}
+
+p {
+  font-style:italic;
+  font-decoration:line-through;
+  text-aling: center;
+  font-family:Arial,sans-serif;
+}
+
+ol{
+  list-style-type:none;
+  /*none
+  decimal,circle,lower-alpha, lower-roman, upper-alpha, upper-roman,square, disc
+  */
+  padding:0;
+}
+
+a {
+  color:indigo;
+}
+
+a:hover {
+  color:mediumslateblue;
 }
